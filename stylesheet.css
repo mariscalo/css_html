@@ -1,0 +1,18 @@
+body {
+  background: #f8f8f8;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.container {
+  width: 68%;
+  margin-left: auto;
+  margin-right: auto;
+  background: #f5e53c;
+}
+
+.header {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-bottom: 0px;
+  text-align: center;
+}
